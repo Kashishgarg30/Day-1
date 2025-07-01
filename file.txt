@@ -1,0 +1,5 @@
+Q-1) What is data?
+Ans- Data refers to the raw, unorganized facts and figures that are stored and managed within the database. It can include text, numbers, images, videos, or any other format that represents information.
+
+Q-2) What is Filesystem?
+Ans- File system refers to the underlying mechanism used to store and manage data on a computer's storage device.
